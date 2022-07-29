@@ -1,4 +1,4 @@
-# Planejamento para finalizar o Ignite
+# Planejamento para concluir o curso o Ignite(ReactJs)
 
 ### Meta de dia para finalizar:
 
